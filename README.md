@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects or innovative startups in web development.  
 - 📫 How to reach me:  
   - Email: [ali.sanwal@onestackhq.com](mailto:ali.sanwal@onestackhq.com)  
-  - LinkedIn: [Muhammad Ali Sanwal](https://www.linkedin.com/in/muhammad-ali-sanwal-7601b0283/)  
+  - LinkedIn: [Muhammad Ali Sanwal](https://www.linkedin.com/in/mr-sanwal/)  
   - Portfolio: [sanwal.vercel.app](https://sanwal.vercel.app/)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love solving problems with clean code, and farming (zamindara) is my other passion! 🌾  
