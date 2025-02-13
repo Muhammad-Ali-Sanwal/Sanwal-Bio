@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning advanced TypeScript, Next.js, and serverless architecture.  
 - 💞️ I’m looking to collaborate on open-source projects or innovative startups in web development.  
 - 📫 How to reach me:  
-  - Email: [ali.sanwal@onestackhq.com](mailto:ali.sanwal@onestackhq.com)  
-  - LinkedIn: [Muhammad Ali Sanwal](https://www.linkedin.com/in/mr-sanwal/)  
-  - Portfolio: [sanwal.vercel.app](https://sanwal.vercel.app/)  
+  - Email: [muhammadalisawal518@gmail.com](mailto:muhammadalisawal518@gmail.com)  
+  - LinkedIn: [Muhammad Ali Sanwal](https://www.linkedin.com/in/m-ali-sanwal/)  
+  - Portfolio: [WebNest Solutions](https://webnest-solutions.vercel.app//)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love solving problems with clean code, and farming (zamindara) is my other passion! 🌾  
 
